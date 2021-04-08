@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Test WebGL",
+"productName": "rotating layers",
 "productVersion": "0.1",
 "dataUrl": "jeffaaronbryant.github.io.data.unityweb",
 "wasmCodeUrl": "jeffaaronbryant.github.io.wasm.code.unityweb",
